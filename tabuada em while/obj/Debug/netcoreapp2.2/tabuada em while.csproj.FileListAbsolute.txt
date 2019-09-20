@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\tabuada em while\bin\Debug\netcoreapp2.2\tabuada em while.deps.json
+C:\Users\fic\Desktop\Csharp\tabuada em while\bin\Debug\netcoreapp2.2\tabuada em while.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\tabuada em while\bin\Debug\netcoreapp2.2\tabuada em while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\tabuada em while\bin\Debug\netcoreapp2.2\tabuada em while.dll
+C:\Users\fic\Desktop\Csharp\tabuada em while\bin\Debug\netcoreapp2.2\tabuada em while.pdb
+C:\Users\fic\Desktop\Csharp\tabuada em while\obj\Debug\netcoreapp2.2\tabuada em while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\tabuada em while\obj\Debug\netcoreapp2.2\tabuada em while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\tabuada em while\obj\Debug\netcoreapp2.2\tabuada em while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\tabuada em while\obj\Debug\netcoreapp2.2\tabuada em while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\tabuada em while\obj\Debug\netcoreapp2.2\tabuada em while.dll
+C:\Users\fic\Desktop\Csharp\tabuada em while\obj\Debug\netcoreapp2.2\tabuada em while.pdb

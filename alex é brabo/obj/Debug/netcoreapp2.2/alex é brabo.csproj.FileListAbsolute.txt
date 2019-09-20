@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\alex é brabo\bin\Debug\netcoreapp2.2\alex é brabo.deps.json
+C:\Users\fic\Desktop\Csharp\alex é brabo\bin\Debug\netcoreapp2.2\alex é brabo.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\alex é brabo\bin\Debug\netcoreapp2.2\alex é brabo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\alex é brabo\bin\Debug\netcoreapp2.2\alex é brabo.dll
+C:\Users\fic\Desktop\Csharp\alex é brabo\bin\Debug\netcoreapp2.2\alex é brabo.pdb
+C:\Users\fic\Desktop\Csharp\alex é brabo\obj\Debug\netcoreapp2.2\alex é brabo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\alex é brabo\obj\Debug\netcoreapp2.2\alex é brabo.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\alex é brabo\obj\Debug\netcoreapp2.2\alex é brabo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\alex é brabo\obj\Debug\netcoreapp2.2\alex é brabo.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\alex é brabo\obj\Debug\netcoreapp2.2\alex é brabo.dll
+C:\Users\fic\Desktop\Csharp\alex é brabo\obj\Debug\netcoreapp2.2\alex é brabo.pdb

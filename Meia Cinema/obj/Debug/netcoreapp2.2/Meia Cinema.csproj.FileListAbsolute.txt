@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\Meia Cinema\bin\Debug\netcoreapp2.2\Meia Cinema.deps.json
+C:\Users\fic\Desktop\Csharp\Meia Cinema\bin\Debug\netcoreapp2.2\Meia Cinema.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\Meia Cinema\bin\Debug\netcoreapp2.2\Meia Cinema.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\Meia Cinema\bin\Debug\netcoreapp2.2\Meia Cinema.dll
+C:\Users\fic\Desktop\Csharp\Meia Cinema\bin\Debug\netcoreapp2.2\Meia Cinema.pdb
+C:\Users\fic\Desktop\Csharp\Meia Cinema\obj\Debug\netcoreapp2.2\Meia Cinema.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\Meia Cinema\obj\Debug\netcoreapp2.2\Meia Cinema.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\Meia Cinema\obj\Debug\netcoreapp2.2\Meia Cinema.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\Meia Cinema\obj\Debug\netcoreapp2.2\Meia Cinema.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\Meia Cinema\obj\Debug\netcoreapp2.2\Meia Cinema.dll
+C:\Users\fic\Desktop\Csharp\Meia Cinema\obj\Debug\netcoreapp2.2\Meia Cinema.pdb

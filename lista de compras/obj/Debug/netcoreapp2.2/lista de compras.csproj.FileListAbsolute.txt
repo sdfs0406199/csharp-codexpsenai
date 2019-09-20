@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\lista de compras\bin\Debug\netcoreapp2.2\lista de compras.deps.json
+C:\Users\fic\Desktop\Csharp\lista de compras\bin\Debug\netcoreapp2.2\lista de compras.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\lista de compras\bin\Debug\netcoreapp2.2\lista de compras.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\lista de compras\bin\Debug\netcoreapp2.2\lista de compras.dll
+C:\Users\fic\Desktop\Csharp\lista de compras\bin\Debug\netcoreapp2.2\lista de compras.pdb
+C:\Users\fic\Desktop\Csharp\lista de compras\obj\Debug\netcoreapp2.2\lista de compras.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\lista de compras\obj\Debug\netcoreapp2.2\lista de compras.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\lista de compras\obj\Debug\netcoreapp2.2\lista de compras.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\lista de compras\obj\Debug\netcoreapp2.2\lista de compras.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\lista de compras\obj\Debug\netcoreapp2.2\lista de compras.dll
+C:\Users\fic\Desktop\Csharp\lista de compras\obj\Debug\netcoreapp2.2\lista de compras.pdb

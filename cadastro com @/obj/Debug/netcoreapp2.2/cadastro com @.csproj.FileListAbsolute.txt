@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\cadastro com @\bin\Debug\netcoreapp2.2\cadastro com @.deps.json
+C:\Users\fic\Desktop\Csharp\cadastro com @\bin\Debug\netcoreapp2.2\cadastro com @.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\cadastro com @\bin\Debug\netcoreapp2.2\cadastro com @.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\cadastro com @\bin\Debug\netcoreapp2.2\cadastro com @.dll
+C:\Users\fic\Desktop\Csharp\cadastro com @\bin\Debug\netcoreapp2.2\cadastro com @.pdb
+C:\Users\fic\Desktop\Csharp\cadastro com @\obj\Debug\netcoreapp2.2\cadastro com @.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\cadastro com @\obj\Debug\netcoreapp2.2\cadastro com @.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\cadastro com @\obj\Debug\netcoreapp2.2\cadastro com @.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\cadastro com @\obj\Debug\netcoreapp2.2\cadastro com @.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\cadastro com @\obj\Debug\netcoreapp2.2\cadastro com @.dll
+C:\Users\fic\Desktop\Csharp\cadastro com @\obj\Debug\netcoreapp2.2\cadastro com @.pdb

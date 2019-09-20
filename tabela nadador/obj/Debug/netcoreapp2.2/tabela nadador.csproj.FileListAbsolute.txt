@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\tabela nadador\bin\Debug\netcoreapp2.2\tabela nadador.deps.json
+C:\Users\fic\Desktop\Csharp\tabela nadador\bin\Debug\netcoreapp2.2\tabela nadador.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\tabela nadador\bin\Debug\netcoreapp2.2\tabela nadador.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\tabela nadador\bin\Debug\netcoreapp2.2\tabela nadador.dll
+C:\Users\fic\Desktop\Csharp\tabela nadador\bin\Debug\netcoreapp2.2\tabela nadador.pdb
+C:\Users\fic\Desktop\Csharp\tabela nadador\obj\Debug\netcoreapp2.2\tabela nadador.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\tabela nadador\obj\Debug\netcoreapp2.2\tabela nadador.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\tabela nadador\obj\Debug\netcoreapp2.2\tabela nadador.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\tabela nadador\obj\Debug\netcoreapp2.2\tabela nadador.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\tabela nadador\obj\Debug\netcoreapp2.2\tabela nadador.dll
+C:\Users\fic\Desktop\Csharp\tabela nadador\obj\Debug\netcoreapp2.2\tabela nadador.pdb

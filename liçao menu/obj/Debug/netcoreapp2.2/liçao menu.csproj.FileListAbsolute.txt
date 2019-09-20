@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\liçao menu\obj\Debug\netcoreapp2.2\liçao menu.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\liçao menu\obj\Debug\netcoreapp2.2\liçao menu.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\liçao menu\obj\Debug\netcoreapp2.2\liçao menu.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\liçao menu\obj\Debug\netcoreapp2.2\liçao menu.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\liçao menu\bin\Debug\netcoreapp2.2\liçao menu.deps.json
+C:\Users\fic\Desktop\Csharp\liçao menu\bin\Debug\netcoreapp2.2\liçao menu.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\liçao menu\bin\Debug\netcoreapp2.2\liçao menu.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\liçao menu\bin\Debug\netcoreapp2.2\liçao menu.dll
+C:\Users\fic\Desktop\Csharp\liçao menu\bin\Debug\netcoreapp2.2\liçao menu.pdb
+C:\Users\fic\Desktop\Csharp\liçao menu\obj\Debug\netcoreapp2.2\liçao menu.dll
+C:\Users\fic\Desktop\Csharp\liçao menu\obj\Debug\netcoreapp2.2\liçao menu.pdb

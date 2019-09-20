@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\sobre while\bin\Debug\netcoreapp2.2\sobre while.deps.json
+C:\Users\fic\Desktop\Csharp\sobre while\bin\Debug\netcoreapp2.2\sobre while.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\sobre while\bin\Debug\netcoreapp2.2\sobre while.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\sobre while\bin\Debug\netcoreapp2.2\sobre while.dll
+C:\Users\fic\Desktop\Csharp\sobre while\bin\Debug\netcoreapp2.2\sobre while.pdb
+C:\Users\fic\Desktop\Csharp\sobre while\obj\Debug\netcoreapp2.2\sobre while.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\sobre while\obj\Debug\netcoreapp2.2\sobre while.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\sobre while\obj\Debug\netcoreapp2.2\sobre while.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\sobre while\obj\Debug\netcoreapp2.2\sobre while.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\sobre while\obj\Debug\netcoreapp2.2\sobre while.dll
+C:\Users\fic\Desktop\Csharp\sobre while\obj\Debug\netcoreapp2.2\sobre while.pdb

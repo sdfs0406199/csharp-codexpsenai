@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\alex é mafioso\bin\Debug\netcoreapp2.2\alex é mafioso.deps.json
+C:\Users\fic\Desktop\Csharp\alex é mafioso\bin\Debug\netcoreapp2.2\alex é mafioso.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\alex é mafioso\bin\Debug\netcoreapp2.2\alex é mafioso.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\alex é mafioso\bin\Debug\netcoreapp2.2\alex é mafioso.dll
+C:\Users\fic\Desktop\Csharp\alex é mafioso\bin\Debug\netcoreapp2.2\alex é mafioso.pdb
+C:\Users\fic\Desktop\Csharp\alex é mafioso\obj\Debug\netcoreapp2.2\alex é mafioso.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\alex é mafioso\obj\Debug\netcoreapp2.2\alex é mafioso.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\alex é mafioso\obj\Debug\netcoreapp2.2\alex é mafioso.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\alex é mafioso\obj\Debug\netcoreapp2.2\alex é mafioso.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\alex é mafioso\obj\Debug\netcoreapp2.2\alex é mafioso.dll
+C:\Users\fic\Desktop\Csharp\alex é mafioso\obj\Debug\netcoreapp2.2\alex é mafioso.pdb

@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\Csharp\operador logico\bin\Debug\netcoreapp2.2\operador logico.deps.json
+C:\Users\fic\Desktop\Csharp\operador logico\bin\Debug\netcoreapp2.2\operador logico.runtimeconfig.json
+C:\Users\fic\Desktop\Csharp\operador logico\bin\Debug\netcoreapp2.2\operador logico.runtimeconfig.dev.json
+C:\Users\fic\Desktop\Csharp\operador logico\bin\Debug\netcoreapp2.2\operador logico.dll
+C:\Users\fic\Desktop\Csharp\operador logico\bin\Debug\netcoreapp2.2\operador logico.pdb
+C:\Users\fic\Desktop\Csharp\operador logico\obj\Debug\netcoreapp2.2\operador logico.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\Csharp\operador logico\obj\Debug\netcoreapp2.2\operador logico.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\Csharp\operador logico\obj\Debug\netcoreapp2.2\operador logico.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\Csharp\operador logico\obj\Debug\netcoreapp2.2\operador logico.AssemblyInfo.cs
+C:\Users\fic\Desktop\Csharp\operador logico\obj\Debug\netcoreapp2.2\operador logico.dll
+C:\Users\fic\Desktop\Csharp\operador logico\obj\Debug\netcoreapp2.2\operador logico.pdb
